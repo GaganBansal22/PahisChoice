@@ -1,0 +1,19 @@
+.menu-overlay{
+    position:fixed;
+    top: 0;
+    left: 0;
+    z-index:11;
+    width:100vw;
+    height:100vh;
+    background-color: black;
+    background-color:rgba(0,0,0,.5)
+}
+.menu{
+    border-radius: 5.50%;
+    background-color: aliceblue;
+    position: fixed;
+    top: 6%;
+    left: auto;
+    right: 1%;
+    /* width: 33%; */
+}
