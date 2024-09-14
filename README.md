@@ -28,7 +28,7 @@ Pahi's Choice is a fully functional e-commerce platform tailored for seamless on
 
 ## Live Website
 
-The project is currently live and fully functional. You can visit it at: [Pahi's Choice]([https://pahischoice.vercel.app](https://www.pahischoice.in))
+The project is currently live and fully functional. You can visit it at: [Pahi's Choice](https://www.pahischoice.in)
 
 ## Technologies Used
 
